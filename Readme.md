@@ -122,40 +122,6 @@
 
 ---
 
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iam-pavanpachuru&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-pavanpachuru&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iam-pavanpachuru&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📊 Contribution Graph
-
-[![Pavan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iam-pavanpachuru\&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=iam-pavanpachuru\&theme=onedark\&no-frame=true\&no-bg=true\&margin-w=4)
-
-</div>
-
----
-
 # 🌱 Current Focus
 
 * ☸️ Learning advanced Kubernetes concepts and production-grade deployments
