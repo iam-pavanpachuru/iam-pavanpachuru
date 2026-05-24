@@ -54,7 +54,7 @@
 
 ## 🚀 DevOps & CI/CD
 
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge\&logo=azuredevops\&logoColor=white)
+![Azure DevOps](<img src="./assets/azure-devops.png" width="50"/>)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
 
@@ -141,6 +141,9 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-iam--pavanpachuru-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/iam-pavanpachuru)
 
+<a href="mailto:pavanpachuru1@gmail.com">
+<img src="https://img.shields.io/badge/Email-pavanpachuru1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </div>
 
 ---
