@@ -29,7 +29,7 @@
 
 ---
 
-# ⚡ Fun DevOps Facts
+# 🚀 What I’m Into
 
 - 🔭 Currently working on enterprise-grade DevOps transformations
 - 🤖 Built an AI-powered GitHub DevOps Agent using LangGraph & Gemini
